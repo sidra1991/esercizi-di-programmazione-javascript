@@ -11,3 +11,14 @@
 
   http://www.imparareaprogrammare.it
 */
+
+let age = prompt('inserire il tuo anno di nascita');
+let ageNow = prompt('inserire anno corrente');
+let oneAndred = 100;
+let terminal = parseInt(age) + parseInt(oneAndred);
+let ages = parseInt(ageNow) - parseInt(age);
+let average = parseInt(oneAndred) - parseInt(ages);
+
+document.querySelector('.age').innerHTML= 'la tua eta è ' + ages ;
+
+document.querySelector('.andred').innerHTML= 'ti mancano ' +  average + ' per avere 100 anni e sara l\'anno ' + terminal;
