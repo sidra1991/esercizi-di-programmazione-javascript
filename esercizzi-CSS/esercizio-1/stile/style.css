@@ -24,3 +24,15 @@ body {
 #current_page h2,h2,h4,h5,h6 {
     color: #1c345a;
 }
+
+a {
+    color: #9e1616;
+}
+
+a:visited {
+    color: #9e1616;
+}
+
+a:hover{
+    font-weight: bold;
+}
