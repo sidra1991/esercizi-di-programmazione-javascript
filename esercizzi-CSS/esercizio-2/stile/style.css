@@ -1,0 +1,21 @@
+#id_1 {
+
+    border-top: 3px solid black;
+    
+    border-bottom: 3px solid black;
+    
+    border-left: 6px solid black;
+    
+    border-right: 6px solid black;
+    
+    margin: 20px;
+    
+    padding: 10px;
+    
+    background-color: grey;
+    
+    width: 150px;
+    
+    height: 250px;
+    
+    }
