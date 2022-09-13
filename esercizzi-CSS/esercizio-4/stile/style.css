@@ -1,0 +1,32 @@
+nav li {
+    display: inline-block;
+    background-color:darkcyan ;
+    width: 5rem;
+    margin-left: 2rem;
+    margin-right: 2rem;
+    border: 1px solid black;
+    text-align: center;
+    position: relative;
+}
+
+*{
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    background-color:darkcyan ;
+}
+
+li a{
+    text-decoration: none;
+    color: black;
+}
+
+nav {
+    background-color: aqua;;
+}
+
+.selected {
+    border-bottom:1px solid darkcyan;
+}
