@@ -16,3 +16,11 @@ body {
     background-color:#1c345a ;
     color: white;
 }
+
+#current_page h1{
+    color: #6e0c0c;
+}
+
+#current_page h2,h2,h4,h5,h6 {
+    color: #1c345a;
+}
